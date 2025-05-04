@@ -11,8 +11,10 @@ const Footer = () => {
         
         <div className="footer_content">
             <div className="footer_content_left">
-            <img src={assets.logo}/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae ipsam, recusandae itaque dolores, minima quibusdam voluptatum placeat quo iste quam ex esse expedita, earum voluptates aperiam tenetur! Magnam, hic animi!</p>
+            <img src={assets.feastify_logo}/>
+            <p>
+            At Feastify, we're passionate about connecting you with your favorite meals from the best local restaurants. Whether it's a quick bite or a gourmet dinner, we deliver freshness, flavor, and satisfaction right to your doorstep. With a seamless ordering experience and reliable service, we're here to make every meal effortless and enjoyable.
+            </p>
             
             </div>
             <div className="footer_content_center">

@@ -29,6 +29,10 @@
     font-size: 1vw;
 
 }
+.header_content a{
+    display: flex;
+   
+}
 .header_content button{
     background-color: white;
     border: none;
@@ -39,7 +43,6 @@
     border-radius: 50px;
     padding: 10px;
     width: 150px;
-    margin-left: -500px;
     cursor: pointer;
     transition: 0.1s;
 }

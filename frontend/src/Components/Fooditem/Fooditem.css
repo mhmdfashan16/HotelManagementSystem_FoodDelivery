@@ -38,7 +38,7 @@
     font-size: 15px;
 }
 .food_item_price{
-    color: tomato;
+    color: indigo;
     font-size: 22px;
     font-weight: 500;
     margin: 10px 0px;
@@ -56,7 +56,7 @@
     border-radius: 50%;
 }
 .food_item_image_container .add:hover{
-    background-color: tomato;
+    background-color: indigo;
     
 }
 .food_item_counter{
@@ -69,7 +69,7 @@
     padding: 6px;
     border-radius: 50px;
     background-color: white;
-    border: 5px solid tomato;
+    border: 5px solid indigo;
     
     
 }

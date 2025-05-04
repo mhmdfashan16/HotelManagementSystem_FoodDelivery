@@ -24,8 +24,8 @@
 
 }
 .sidebar-option.active{
-    background-color: #ffe7d4;
-    border-color: tomato;
+    background-color: rgb(234, 212, 250);
+    border-color: indigo;
     
 }
 @media(max-width:900px){

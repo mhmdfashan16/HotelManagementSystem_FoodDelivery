@@ -62,9 +62,11 @@ import parcel_icon from './parcel_icon.png'
 import header_img_new from './header_img_new.png'
 import banner_img from './banner_img.png'
 import feastify_logo from './feastify_logo.png'
+import star_icon from './rating_starts_new.png'
 
 export const assets = {
     logo,
+    star_icon,
     feastify_logo,
     banner_img,
     header_img_new,
