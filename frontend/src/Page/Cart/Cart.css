@@ -25,7 +25,7 @@
 .cart_items_item .cross{
     cursor: pointer;
     font-size: 18px;
-    background-color: rgb(255, 138, 103);
+    background-color: rgb(196, 88, 254);
     width: 25px;
     height: 25px;
     text-align: center;
@@ -38,7 +38,7 @@
 .cart_items_item .addProduct{
     cursor: pointer;
     font-size: 20px;
-    background-color: rgb(255, 138, 103);
+    background-color: rgb(196, 88, 254);
     width: 25px;
     height: 25px;
     text-align: center;
@@ -48,20 +48,8 @@
     
 
 }
-.cart_items_item .cross:hover{
-    font-size: 22px;
-    width: 30px;
-    height: 30px;
-    transition: 0.3s;
-    background-color: rgb(255, 140, 0);
-}
-.cart_items_item .addProduct:hover{
-    font-size: 25px;
-    width: 30px;
-    height: 30px;
-    transition: 0.3s;
-    background-color: rgb(255, 140, 0);
-}
+
+
 .cart_bottom{
     margin-top: 80px;
     display: flex;
@@ -86,7 +74,7 @@
 .cart_total button{
     border: none;
     color: white;
-    background-color: tomato;
+    background-color: indigo;
     width: max(15vw, 200px);
     padding: 12px 0px;
     border-radius: 4px;

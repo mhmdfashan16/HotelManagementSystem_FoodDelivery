@@ -5,6 +5,7 @@
 .food_display h2{
     font-size: max(2vw, 24px);
     font-weight: 600;
+    color: rgb(44, 4, 70);
 }
 .food_display_list{
     display: grid;
