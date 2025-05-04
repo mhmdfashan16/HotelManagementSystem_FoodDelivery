@@ -28,7 +28,7 @@ const Navbar = ({setShowLogin}) => {
 
   return (
     <div className='navbar'>
-       <Link to='/'><img src={assets.logo} className='logo'/></Link>
+       <Link to='/'><img src={assets.feastify_logo} className='logo'/></Link>
        <ul className='navbar_menu'>
         
         {/* <li onClick={()=>{setMenu("home")}} className={menu==="home"?"act":""}><Link to='/'>home</Link> </li>
@@ -61,9 +61,9 @@ const Navbar = ({setShowLogin}) => {
           </div>}
         
        </div>
-       <div className="navbar_left">
+       {/* <div className="navbar_left">
 
-       </div>
+       </div> */}
 
     </div>
     
